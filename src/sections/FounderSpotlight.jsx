@@ -46,7 +46,7 @@ export default function FounderSpotlight() {
                 />
                 <div className="absolute bottom-4 left-4 right-4 bg-slate-950/80 backdrop-blur-md p-4 rounded-xl border border-amber-500/30 text-center">
                   <h3 className="text-xl font-bold text-amber-200">Dr. Malarkodi</h3>
-                  <p className="text-xs text-amber-400/80 uppercase font-medium">Founder & Managing Director</p>
+                  <p className="text-xs text-amber-400/80 uppercase font-medium">Founder</p>
                   <p className="text-[11px] text-slate-300 mt-1">M.B.B.S., D.G.O. • Specialist Ultrasonologist</p>
                 </div>
               </div>
