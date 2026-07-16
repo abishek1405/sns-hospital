@@ -21,7 +21,7 @@ export default function FounderSpotlight() {
             <span>Honoring Our Visionary Founder</span>
           </motion.div>
           <h2 className="text-3xl sm:text-5xl font-black text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-yellow-100 to-amber-400 tracking-tight">
-            Founder & Managing Director Spotlight
+            Founder
           </h2>
         </div>
 
